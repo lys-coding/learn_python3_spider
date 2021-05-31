@@ -20,14 +20,22 @@ class StackoverflowPythonSpider(scrapy.Spider):
 
         for question in question_list.xpath('./div'):
             item = StackoverflowPythonItem()
-            item['_id'] = question.attrib['id']
-            item['questions'] = question.xpath('div[2]/h3/a/text()').extract()
+            item['_id'] = question.xpath('div[1]/@id').extract()
+            item['questions'] = question.xpath('div[1]/div[2]/h3/a/text()').extract()
             item['votes'] = question.xpath(
-                    'div[1]/div[1]/div[1]/div[1]/span/strong/text()').extract()
+                    'div[1]/div[1]/div[1]/div[1]/div[1]/span/strong/text()').extract()
             item['answers'] = question.xpath(
-                    'div[1]/div[1]/div[2]/strong/text()').extract()
-            item['views'] = question.xpath('div[1]/div[2]/@title').extract()
-            item['links'] = question.xpath('div[2]/h3/a/@href').extract()
+                    'div[1]/div[1]/div[1]/div[2]/strong/text()').extract()
+            item['views'] = question.xpath('div[1]/div[1]/div[2]/@title').extract()
+            item['links'] = question.xpath('div[1]/div[2]/h3/a/@href').extract()
+
+            # print("Debug: {}".format(item['_id']))
+            # print("Debug: {}".format(item['questions']))
+            # print("Debug: {}".format(item['votes']))
+            # print("Debug: {}".format(item['answers']))
+            # print("Debug: {}".format(item['views']))
+            # print("Debug: {}".format(item['links']))
+
             yield item
 
 

@@ -8,15 +8,18 @@ import pymongo
 
 class StackoverflowPipeline(object):
     def __init__(self):
-        self.connection = pymongo.MongoClient('68.183.180.71', 27017)
-        self.db = self.connection.scrapy
-        self.collection = self.db.stackoverflow
+        # self.connection = pymongo.MongoClient('68.183.180.71', 27017)
+        # self.db = self.connection.scrapy
+        # self.collection = self.db.stackoverflow
+        pass
 
     def process_item(self, item, spider):
-        if not self.connection or not item:
-            return
-        self.collection.save(item)
+        # if not self.connection or not item:
+        #     return
+        # self.collection.save(item)
+        print("Result: {}".format(item))
 
     def __del__(self):
-        if self.connection:
-            self.connection.close()
+        # if self.connection:
+        #     self.connection.close()
+        pass

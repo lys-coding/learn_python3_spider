@@ -52,9 +52,9 @@ DOWNLOAD_DELAY = 1
 
 # Enable or disable downloader middlewares
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
-DOWNLOADER_MIDDLEWARES = {
-   'stackoverflow.middlewares.StackoverflowDownloaderMiddleware.HttpProxy': 543,
-}
+# DOWNLOADER_MIDDLEWARES = {
+#    'stackoverflow.middlewares.StackoverflowDownloaderMiddleware.HttpProxy': 543,
+# }
 
 # Enable or disable extensions
 # See https://doc.scrapy.org/en/latest/topics/extensions.html
@@ -95,7 +95,7 @@ SCHEDULER = 'scrapy_redis.scheduler.Scheduler'
 # redis 去重
 DUPEFILTER_CLASS = "scrapy_redis.dupefilter.RFPDupeFilter"
 # redis服务器地址
-REDIS_HOST = '68.183.180.0'
+REDIS_HOST = '127.0.0.1'
 REDIS_PORT = 6379
 
 
