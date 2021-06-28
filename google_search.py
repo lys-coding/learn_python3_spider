@@ -1,9 +1,9 @@
-#/usr/bin/env python
+#/usr/bin/env python3
 
+import json
+import ssl
 from bs4 import BeautifulSoup
 from urllib import request, parse
-import ssl
-import json
 
 
 def google_search(keyword, start=1):
