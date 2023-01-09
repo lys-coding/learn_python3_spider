@@ -5,42 +5,50 @@ peace.
 
 # python爬虫教程从0到1
 
+##  Google 使用教程
+- [Google搜索高级技巧](https://wistbean.github.io/google-search.html)
+
+## 爬虫负基础
+
+- [python爬虫系列教程-1 ｜ 不会代码也想爬数据？这就教你！](https://mp.weixin.qq.com/s?__biz=MzkyNTExNzY4NA==&mid=2247484935&idx=1&sn=ad9f68845455ca35c08c0e11f92aa4a6&chksm=c1ca3b9cf6bdb28a8647bc911079221b790780611e019e628613657ebfbc38e1e317f53ab00f&token=1453775207&lang=zh_CN#rd)
+
 ## python爬虫前，抓包
 
-- [python爬虫系列教程00 | 什么是爬虫，怎么玩爬虫？](https://mp.weixin.qq.com/s/XJ4Jb5KU0Mf0PIeiSpdC7Q)
-- [python爬虫系列教程01 | 教你在 Chrome 浏览器轻松抓包](https://mp.weixin.qq.com/s/aqOuCZKxpEW2_P2fkfWReg)
-- [python爬虫系列教程02 | 教你通过 Fiddler 进行手机抓包？](https://mp.weixin.qq.com/s/NGOUtPIW8n1whOYwR-LQYA)
+- [python爬虫系列教程00 | 什么是爬虫，怎么玩爬虫？](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489892&amp;idx=1&amp;sn=40f3f6b70d467ca72b838939aa63d720&amp;chksm=ceb9e378f9ce6a6e089459fad40e2ef8bdce9f46a0a7b9e8332cdbe6d2bc09a47879dc99dd4c&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程01 | 教你在 Chrome 浏览器轻松抓包](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489893&amp;idx=1&amp;sn=32cc4fe30066a148485f40629aff598a&amp;chksm=ceb9e379f9ce6a6f609b95a729d01ff1745c101c14fe005fd2ed73e32dec08e1ed4d102bc9c9&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程02 | 教你通过 Fiddler 进行手机抓包？](https://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489894&amp;idx=1&amp;sn=d620c16bf3fcb4657c8c44152d936fc7&amp;chksm=ceb9e37af9ce6a6c3017158256b06afd5fb1945a4cd05f9db7e27c31606626ee73d0cc44a074&amp;scene=27#wechat_redirect)
+
 
 ## python爬虫库的使用
-- [python爬虫系列教程03 | 那个叫做 Urllib 的库让我们的 python 假装是浏览器](https://mp.weixin.qq.com/s/rJ8bt4HjYU36MrsDejHLZA)
-- [python爬虫系列教程04 | 长江后浪推前浪，Requests库把urllib库拍在沙滩上](https://mp.weixin.qq.com/s/dYtF8ydJtqub0QkK1cGVjA)
-- [python爬虫系列教程05 | 年轻人，不会正则表达式你睡得着觉？有点出息没有？](https://mp.weixin.qq.com/s/t4hXKK-pjA8rIVmJuiyQcw)
-- [python爬虫系列教程06 | 你的第一个爬虫，爬取当当网 Top 500 本五星好评书籍](https://mp.weixin.qq.com/s/ET9HP2n3905PxBy4ZLmZNw)
-- [python爬虫系列教程07 | 有了 BeautifulSoup ，妈妈再也不用担心我的正则表达式了](https://mp.weixin.qq.com/s/X8BT4sRp7_a4NHXa9ZSzCg)
-- [python爬虫系列教程08 | 你的第二个爬虫，要过年了，爬取豆瓣最受欢迎的250部电影慢慢看](https://mp.weixin.qq.com/s/zzTRw4w6SFSeUDGlUCvXGw)
-- [python爬虫系列教程09 | 上来，自己动 ！这就是 selenium 的牛逼之处](https://mp.weixin.qq.com/s/pNs5VBLadYQbe8RjsR4x1g)
-- [python爬虫系列教程10 | 这次，将带你使用 selenium+ phantomJS 爬取b站上的NBA形象大使蔡徐坤和他的球友们](https://mp.weixin.qq.com/s/pGyFYpAoMtgGtD4uxBSCig)
-- [python爬虫系列教程11 | python爬虫的时候对Json数据的解析](https://mp.weixin.qq.com/s/57W2axrqEB9hbIA9mgpP0g)
-- [python爬虫系列教程12 | 秒爬，python爬虫中的多线程，多进程，协程](https://mp.weixin.qq.com/s/2kYWX8xOjdwifJZAkOlNjA)
-- [python爬虫系列教程13 | 就这么说吧，如果你不懂python多线程和线程池，那就去河边摸鱼！](https://mp.weixin.qq.com/s/v8qlA1cOIhCwYmFgO6YrMg)
+- [python爬虫系列教程03 | 那个叫做 Urllib 的库让我们的 python 假装是浏览器](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489895&amp;idx=1&amp;sn=9cddfab13d7d251ab3f7e81a882961ce&amp;chksm=ceb9e37bf9ce6a6d1014e00a7d4730249dc1e9104a8fd70ebc34211714a136bc003a962853b8&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程04 | 长江后浪推前浪，Requests库把urllib库拍在沙滩上](http://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&amp;mid=2247489896&amp;idx=1&amp;sn=a4686a0cefb12a9bc5d41b062327f545&amp;chksm=ceb9e374f9ce6a622723e99c8e6c04dc25b268d474f259f85ec8da73d755f0de562bb584c63c&amp;scene=27#wechat_redirect)
+- [python爬虫系列教程05 | 年轻人，不会正则表达式你睡得着觉？有点出息没有？](https://vip.fxxkpython.com/?p=1928)
+- [python爬虫系列教程06 | 你的第一个爬虫，爬取当当网 Top 500 本五星好评书籍](https://vip.fxxkpython.com/?p=1903)
+- [python爬虫系列教程07 | 有了 BeautifulSoup ，妈妈再也不用担心我的正则表达式了](https://vip.fxxkpython.com/?p=1891)
+- [python爬虫系列教程08 | 你的第二个爬虫，要过年了，爬取豆瓣最受欢迎的250部电影慢慢看](https://vip.fxxkpython.com/?p=1871)
+- [python爬虫系列教程09 | 上来，自己动 ！这就是 selenium 的牛逼之处](https://vip.fxxkpython.com/?p=1854)
+- [python爬虫系列教程10 | 这次，将带你使用 selenium+ phantomJS 爬取b站上的NBA形象大使蔡徐坤和他的球友们](https://vip.fxxkpython.com/?p=4699)
+- [python爬虫系列教程11 | python爬虫的时候对Json数据的解析](https://vip.fxxkpython.com/?p=4723)
+- [python爬虫系列教程12 | 秒爬，python爬虫中的多线程，多进程，协程](https://vip.fxxkpython.com/?p=4736)
+- [python爬虫系列教程13 | 就这么说吧，如果你不懂python多线程和线程池，那就去河边摸鱼！](https://vip.fxxkpython.com/?p=4756)
 - [python爬虫系列教程14 | 害羞，用多线程秒爬那些万恶的妹纸们，纸巾呢？](https://vip.fxxkpython.com/?p=5293)
-- [python爬虫系列教程15 | 你，快去试试用多进程的方式重新去爬取豆瓣上的电影](https://mp.weixin.qq.com/s/X15LNTgXMWV-I224NJ_U1A)
-- [python爬虫系列教程16 | 听说你又被封 ip 了，你要学会伪装好自己，这次说说伪装你的头部](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484251&idx=1&sn=b10a5aedb633a051178fac8a1a800542&scene=19#wechat_redirect)
-- [python爬虫系列教程17 | 就算你被封了也能继续爬，使用IP代理池伪装你的IP地址，让IP飘一会](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484261&idx=1&sn=2d839d004d592be3c98d1356d6710a69&scene=19#wechat_redirect)
-- [python爬虫系列教程18 | 遇到需要的登录的网站怎么办？用这3招轻松搞定！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484267&idx=1&sn=53486a7f41d9f57d14b10b7a21bfbb1e&scene=19#wechat_redirect)
-- [python爬虫系列教程19 | 小帅b教你如何识别图片验证码](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484292&idx=1&sn=1d948f56e57a6586f11aabc0f0f6b3af&scene=19#wechat_redirect)
-- [python爬虫系列教程20 | 对于b站这样的滑动验证码，不好意思，照样自动识别](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484321&idx=1&sn=4bc73324acfacda7d3bc82120b19d11a&scene=19#wechat_redirect)
-- [python爬虫系列教程21 | 以后我再讲「模拟登录」我就是狗](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484326&idx=1&sn=05fe9e83b0ffc4b401a45f5a272bee0b&scene=19#wechat_redirect)
-- [python爬虫系列教程22 | 手机，这次要让你上来自己动了。这就是 Appium+Python 的牛x之处](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484358&idx=1&sn=23e920d7a8d43dafd7607c8d30eeb946&scene=19#wechat_redirect)
-- [python爬虫系列教程23 | 搞事情了，用 Appium 爬取你的微信朋友圈。](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484386&idx=1&sn=7f0545f27f095f20d69deedfa9f606a1&scene=19#wechat_redirect)
-- [python爬虫系列教程24 |爬取下来的数据怎么保存？ CSV 了解一下](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484441&idx=1&sn=f814247c9307e4ed4bb58cdff279d410&scene=19#wechat_redirect)
-- [python爬虫系列教程25 | 把数据爬取下来之后就存储到你的MySQL数据库。](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484510&idx=1&sn=316cec6eab70fcd8005cc580a66e02aa&scene=19#wechat_redirect)
-- [python爬虫系列教程26 | 当Python遇到MongoDB的时候，存储av女优的数据变得如此顺滑爽～](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484520&idx=1&sn=5e2adaa2accb7fd9af35cbe7ceef945e&scene=19#wechat_redirect)
-- [python爬虫系列教程27 | 你爬下的数据不分析一波可就亏了啊，使用python进行数据可视化](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484538&idx=1&sn=d9b614201c96ad283bbad8a867d42082&scene=19#wechat_redirect)
-- [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247484571&idx=1&sn=e9b1b3cf6e5401ce5bfa0dd3d29f9305&scene=19#wechat_redirect)
-- [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://fxxkpython.com/python3-web-fxxkpython-spider-tutorial-30.html)
+- [python爬虫系列教程15 | 你，快去试试用多进程的方式重新去爬取豆瓣上的电影](https://vip.fxxkpython.com/?p=4793)
+- [python爬虫系列教程16 | 听说你又被封 ip 了，你要学会伪装好自己，这次说说伪装你的头部](https://vip.fxxkpython.com/?p=4803)
+- [python爬虫系列教程17 | 就算你被封了也能继续爬，使用IP代理池伪装你的IP地址，让IP飘一会](https://vip.fxxkpython.com/?p=4818)
+- [python爬虫系列教程18 | 遇到需要的登录的网站怎么办？用这3招轻松搞定！](https://vip.fxxkpython.com/?p=4833)
+- [python爬虫系列教程19 | 小帅b教你如何识别图片验证码](https://vip.fxxkpython.com/?p=4848)
+- [python爬虫系列教程20 | 对于b站这样的滑动验证码，不好意思，照样自动识别](https://vip.fxxkpython.com/?p=4878)
+- [python爬虫系列教程21 | 以后我再讲「模拟登录」我就是狗](https://vip.fxxkpython.com/?p=4919)
+- [python爬虫系列教程22 | 手机，这次要让你上来自己动了。这就是 Appium+Python 的牛x之处](https://vip.fxxkpython.com/?p=4929)
+- [python爬虫系列教程23 | 搞事情了，用 Appium 爬取你的微信朋友圈。](https://vip.fxxkpython.com/?p=4950)
+- [python爬虫系列教程24 |爬取下来的数据怎么保存？ CSV 了解一下](https://vip.fxxkpython.com/?p=4975)
+- [python爬虫系列教程25 | 把数据爬取下来之后就存储到你的MySQL数据库。](https://vip.fxxkpython.com/?p=4990)
+- [python爬虫系列教程26 | 当Python遇到MongoDB的时候，存储av女优的数据变得如此顺滑爽～](https://vip.fxxkpython.com/?p=5005)
+- [python爬虫系列教程27 | 你爬下的数据不分析一波可就亏了啊，使用python进行数据可视化](https://vip.fxxkpython.com/?p=5020)
+- [python爬虫系列教程28 | 使用scrapy爬取糗事百科的例子，告诉你它有多厉害！](https://vip.fxxkpython.com/?p=5038)
+- [python爬虫系列教程30 | scrapy后续，把「糗事百科」的段子爬下来然后存到数据库中](https://vip.fxxkpython.com/?p=5059)
 - [mitmproxy | 那个站在中间的男人，使用Python就能直接操控你的上网请求](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485104&idx=1&sn=5ee4a04e6ce2854e5507cd320517fd0d&chksm=fc8bbe21cbfc373738d926e0ca3250f44079449a85c1fe88f307805e28a3cc4ada07d9e322bb&token=2085568099&lang=zh_CN#rd)
-- [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&mid=2247485117&idx=1&sn=3819b0d55ec071164b7cabe2477ddc13&scene=19#wechat_redirect)
+- [mitmproxy | 如何使用 mitmproxy 监控你的手机](https://mp.weixin.qq.com/s?__biz=Mzg2NzYyNjg2Nw==&mid=2247490016&idx=1&sn=4749ad1707fd33be167118d5f3aadeab&source=41#wechat_redirect)
 
 
 ## python爬虫进阶：python爬虫反爬
@@ -93,25 +101,33 @@ peace.
 
 ## python爬虫段子
 
-- [网站维护人员：真的求求你们了，不要再来爬取了！！](https://mp.weixin.qq.com/s/3IyGi0F6xnD_uMKpez5AaA)
+- [网站维护人员：真的求求你们了，不要再来爬取了！！](https://vip.fxxkpython.com/?p=4679)
 
 ## python相关
 - [python如何赚钱？ python爬虫如何进阶？ python就业？ 如何快速入门python？ .....](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484770&amp;idx=1&amp;sn=16427865c7b2785594acfbcf4505e26f&amp;chksm=fc8bbdf3cbfc34e5856dd36dd825f9b89b05a4ab3def08dac48b760771e4ee0454fdf9ddee72&amp;scene=27#wechat_redirect) 
 - [ 如何自学 Python 高效一些](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484608&amp;idx=1&amp;sn=0ebde7cbfea6e42e9e8e316bbec35b2b&amp;chksm=fc8bbc51cbfc35475daa15a026c44727bc7954bd722b24870eab567ef937a8f175369c546962&amp;scene=27#wechat_redirect) 
 - [python教程资源](https://wistbean.github.io/categories/python/)
 - [吐血分享这两个爬虫用到的 Chrome 牛逼插件](http://mp.weixin.qq.com/s?__biz=MzU2ODYzNTkwMg==&amp;mid=2247484859&amp;idx=1&amp;sn=b5f91ab1dc027d06e34dea1b37091b34&amp;chksm=fc8bbd2acbfc343ce3123fb3e3aec1fa1e34c96b15e998a34e01a75f4ca90b0089e1692f5a31&amp;scene=27#wechat_redirect) 
-## python公众号
+
+## 公众号获取 Python 相关帅书
 
 微信搜索id：fxxkpython
-名称：学习python的正确姿势
+名称：学习 Python 的正确姿势
 
-![扫一扫关注学习python的正确姿势](https://pic1.zhimg.com/80/v2-8733460ed14d159a62d511a641742ef0_hd.jpg)
+<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/156555426-44ad6d54-4b9b-47bb-b6c9-44b0f7a0609b.JPG" align="left" height="250" width="250"></a>
+
+
+*进去发送「帅书」即可领取。*
+
+
+## Python 视频号
+
+
+<a href="https://fxxkpython.com"><img src="https://user-images.githubusercontent.com/11805948/148672594-3beb1694-e4d8-4d50-bc30-db0495379ea3.JPG" align="left" height="250" width="250"></a>
 
 ## 通往Python高手之路
 小帅b手把手带你：[通往Python高手之路](http://vip.fxxkpython.com/?page_id=18)
 
-## 使用 Google
-- [自建服务](http://www.ubuntu520.com/vultr-ssr-bbr-build-quick.html)
-- [Google搜索高级技巧](http://www.ubuntu520.com/google-search.html)
+
 
 
